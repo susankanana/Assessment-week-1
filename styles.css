@@ -1,0 +1,98 @@
+main{
+    width: 90vw;
+    max-width: 1000px;
+    margin:50px;
+
+}
+.start{
+ width: 50%;
+ float: left;
+}
+.head{
+    font-size: 2rem;
+    font-weight: 700;
+    color:#691898;
+    line-height: 1 ;
+    padding: 10px;
+
+}
+.text{
+    padding: 10px;
+    margin-top: 2rem;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: 50;
+   font-size: small;
+   color:#691898;
+}
+.stars{
+ width: 400px;
+ float: right;
+ height: 400px;
+ margin: 20px;
+}
+.star1{
+  
+  
+  padding: 10px;
+  background-color: lavender;
+  margin: 5px;
+  
+}
+.star2{
+    
+    padding: 10px;
+    background-color: lavender;
+    margin: 5px;
+}
+.star3{
+    
+    padding: 10px;
+    background-color: lavender;
+    margin: 5px;
+}
+.star{
+    height: 10px;
+}
+.extra{
+    color: #691898;
+    font-size: 14px;
+    font-weight: 550;
+    letter-spacing: 1px;
+}
+.circle{
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+}
+span{
+    padding: 10px;
+    width: 100px;
+
+}
+.colton{
+ background-color: #3e1555;
+ color: white;
+ padding: 5px;
+    margin: 5px;
+    width: 500px;
+}
+.irene{
+    background-color: #3e1555;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    width: 500px;
+   }
+
+.anne{
+    background-color: #3e1555;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    width: 500px;
+   }
+   .container{
+    display: inline-flex;
+    width: 90vw;
+   }
